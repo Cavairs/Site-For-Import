@@ -1,0 +1,6 @@
+tmp/
+index.html*old
+*DS*store
+img/*DS*store
+img/NeuroStartUp*png*backup
+img/Thumbs*db
